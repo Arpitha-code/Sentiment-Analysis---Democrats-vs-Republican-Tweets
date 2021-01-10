@@ -7,6 +7,7 @@ As the US election was the main discussion point in the last few months, people 
 This dataset is added to kaggle in 2018 by Kyle Pastor. This data set is about political data, which contains extracted tweets handled by representative parties and user information.
 
 The data set consists of 3 columns –
+
 **Party** : Name of the Party – Democrats or Republicans
 
 **Handle**: Representative from a particular party who post the Tweet or Retweet

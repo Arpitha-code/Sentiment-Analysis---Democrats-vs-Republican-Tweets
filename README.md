@@ -8,8 +8,11 @@ This dataset is added to kaggle in 2018 by Kyle Pastor. This data set is about p
 
 The data set consists of 3 columns –
 **Party** : Name of the Party – Democrats or Republicans
+
 **Handle**: Representative from a particular party who post the Tweet or Retweet
+
 **Tweet**: Complete Tweet posted by the party handlers
+
 It has 86460 tweets by 433 unique handle.
 Party is the label which contains two classes- Democratic and Republican.
 Among the extracted tweets, 51% belongs to Republican Party and 49% belongs to Democrat Party.
